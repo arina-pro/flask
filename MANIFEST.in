@@ -1,0 +1,4 @@
+include flasky/schema.sql
+graft flasky/static
+graft flasky/templates
+global-exclude *.pyc
